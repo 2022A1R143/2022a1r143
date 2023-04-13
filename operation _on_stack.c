@@ -1,6 +1,6 @@
 /*Q. Implement a Stack using Array and develop functions to perform push and pop operations?
-Name      Aniket Manhas
-Roll no.  148*/
+Name      Aditya pratap singh
+Roll no.  143*/
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 5
